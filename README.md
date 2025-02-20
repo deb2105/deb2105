@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Debshruti 👋! Welcome to my profile...</h2>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm Debshruti ! Welcome to my profile...</h2>
 
 ###
 
