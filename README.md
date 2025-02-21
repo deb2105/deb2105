@@ -7,6 +7,7 @@
 <img align="right" height="150" src="https://i.postimg.cc/jjhmNS0J/image.gif"  />
 
 ###
+<img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
 <h2>Here are some social media handles you can see:- </h2>
 
@@ -34,6 +35,7 @@
 </div>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
